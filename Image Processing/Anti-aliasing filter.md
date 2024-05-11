@@ -1,10 +1,10 @@
-# Anti-aliasing Fitier
+# Anti-aliasing Filter
 
 ## what is the aliasing? and why it happened?
 
 - Practical signals have infinite frequency extent(i.e. Bandwidth)
 - No sampling rate is high enough
-- Frequencies above the folding frequency ($f_{2}$/2) "Fold" or Alias To different frequecy.
+- Frequencies above the folding frequency ($f_{2}$/2) "Fold" or Alias To different frequency.
 
 <figure>
   <img src="./assets/Aliasing-plot.png"/>
